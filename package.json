@@ -1,0 +1,25 @@
+{
+  "name": "@ssead/serverless-cli",
+  "version": "1.0.0",
+  "description": "A CLI tool to help manage your serverless projects.",
+  "main": "src/index.js",
+  "scripts": {},
+  "bin": {
+    "submodules": "bin/submodules"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "keywords": [
+    "cli",
+    "lambda",
+    "serverless",
+    "sreverless-node"
+  ],
+  "author": "SSead",
+  "license": "ISC",
+  "dependencies": {
+    "child_process": "^1.0.2",
+    "esm": "^3.2.25"
+  }
+}
