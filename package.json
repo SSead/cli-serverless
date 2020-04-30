@@ -1,5 +1,5 @@
 {
-  "name": "@ssead/cli-serverless",
+  "name": "cli-serverless",
   "version": "1.0.0",
   "description": "A CLI tool to help manage your serverless projects.",
   "main": "src/serverless.js",
