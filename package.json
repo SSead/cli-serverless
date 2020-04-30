@@ -1,5 +1,5 @@
 {
-  "name": "@ssead/serverless-cli",
+  "name": "@ssead/cli-serverless",
   "version": "1.0.0",
   "description": "A CLI tool to help manage your serverless projects.",
   "main": "src/serverless.js",
@@ -8,7 +8,8 @@
     "submodules": "bin/submodules"
   },
   "publishConfig": {
-    "access": "public"
+    "access": "public",
+    "registry": "https://npm.pkg.github.com/"
   },
   "keywords": [
     "cli",
