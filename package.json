@@ -2,7 +2,7 @@
   "name": "@ssead/serverless-cli",
   "version": "1.0.0",
   "description": "A CLI tool to help manage your serverless projects.",
-  "main": "src/index.js",
+  "main": "src/serverless.js",
   "scripts": {},
   "bin": {
     "submodules": "bin/submodules"
